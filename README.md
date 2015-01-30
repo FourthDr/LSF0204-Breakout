@@ -4,7 +4,7 @@ LSF0204 Breakout Board
 Here are Eagle files for my LSF0204(D) Breakout Board.
 
 <p align="center">
-  <a href="Board Image"><img src="https://github.com/ftruzzi/LSF0204-Breakout/blob/master/image.png" align="center" height="300"   width="300" ></a>
+  <a href="image.png"><img src="https://github.com/ftruzzi/LSF0204-Breakout/blob/master/image.png" align="center" height="300"   width="300" ></a>
 </p>
 
 
